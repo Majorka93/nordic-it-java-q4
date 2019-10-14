@@ -23,7 +23,7 @@ public class HomeWorkLesson7 {
     private static boolean isValidNumber(int n) {
         if (n < 0) {
             System.out.println("Вы ввели отрицательное число");
-        } else if (n > 15) {
+        } else if (n > 12) {
             System.out.println("Вы ввели очень большое число");
         } else {
             return true;
